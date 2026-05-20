@@ -79,19 +79,19 @@
 
 ### Evidencia de ejecuciones:
 
-**Solo MPI, sin OMP:**
+**Solo MPI, sin OMP:**<br>
 ![Ejecución solo MPI](images/05.jpeg)
 
 
-**Solo OMP, sin MPI:**
+**Solo OMP, sin MPI:**<br>
 ![Ejecución solo OMP](images/06.jpeg)
 
 
-**MPI + OMP (2 procesos, 2 hilos):**
+**MPI + OMP (2 procesos, 2 hilos):**<br>
 ![Ejecución MPI+OMP 2x2](images/07.jpeg)
 
 
-**MPI + OMP (4 procesos, 2 hilos):**
+**MPI + OMP (4 procesos, 2 hilos):**<br>
 ![Ejecución MPI+OMP 4x2](images/08.jpeg)
 
 
