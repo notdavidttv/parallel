@@ -34,7 +34,7 @@
 
 **Descripción:** En este ejercicio hicimos una combinación de MPI con OpenMP. Con MPI gestionamos la comunicación entre los dos procesos creados y dentro de cada proceso usamos OpenMP para asignarles 4 hilos lógicos que comparten la memoria del proceso.
 
-![Ejecución híbrida MPI + OpenMP](lab_mpi_openmp/images/03.jpeg)
+![Ejecución híbrida MPI + OpenMP](images/03.jpeg)
 
 
 ### Preguntas de análisis:
@@ -52,7 +52,7 @@
 
 **Descripción:** En este ejercicio se hizo la sumatoria de un arreglo usando el modelo híbrido de MPI con OpenMP, dividiendo los valores del vector entre los procesos, para que así cada proceso realice su suma local de forma paralela con hilos usando OpenMP.
 
-![Resultado de la suma híbrida](lab_mpi_openmp/images/04.jpeg)
+![Resultado de la suma híbrida](images/04.jpeg)
 
 
 ### Preguntas de análisis:
@@ -80,19 +80,19 @@
 ### Evidencia de ejecuciones:
 
 **Solo MPI, sin OMP:**
-![Ejecución solo MPI](lab_mpi_openmp/images/05.jpeg)
+![Ejecución solo MPI](images/05.jpeg)
 
 
 **Solo OMP, sin MPI:**
-![Ejecución solo OMP](lab_mpi_openmp/images/06.jpeg)
+![Ejecución solo OMP](images/06.jpeg)
 
 
 **MPI + OMP (2 procesos, 2 hilos):**
-![Ejecución MPI+OMP 2x2](lab_mpi_openmp/images/07.jpeg)
+![Ejecución MPI+OMP 2x2](images/07.jpeg)
 
 
 **MPI + OMP (4 procesos, 2 hilos):**
-![Ejecución MPI+OMP 4x2](lab_mpi_openmp/images/08.jpeg)
+![Ejecución MPI+OMP 4x2](images/08.jpeg)
 
 
 ### Discusión de eficiencia:
