@@ -12,11 +12,11 @@
 
 **Ejecución usando 4 procesos:**
 
-![Ejecución con 4 procesos](lab_mpi_openmp/images/01.jpeg)
+![Ejecución con 4 procesos](images/01.jpeg)
 
 **Ejecución con 2 procesos:**
 
-![Ejecución con 2 procesos](lab_mpi_openmp/images/02.jpeg)
+![Ejecución con 2 procesos](images/02.jpeg)
 
 
 ### Preguntas de análisis:
